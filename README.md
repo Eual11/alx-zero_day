@@ -1,2 +1,1 @@
-this is fun
-thou shall know me
+My first readme 
